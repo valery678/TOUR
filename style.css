@@ -4,7 +4,7 @@
 body {
     font-family: Arial, sans-serif;
     background-color: #f0f5ee;
-    background-image: url("images/leaf-pattern.png");
+    background-image: url("leaf-pattern.png");
     background-repeat: repeat;
     color: #243b2a;
     margin: 0;
@@ -46,7 +46,7 @@ main {
 }
 
 .places {
-    list-style-image: url("images/leaf-bullet.png");
+    list-style-image: url("leaf-bullet.png");
 }
 
 .places li {
